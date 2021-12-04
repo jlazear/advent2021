@@ -57,6 +57,3 @@ print(drawn)
 print(board)
 
 print(np.sum(save_board*(~np.isin(save_board, drawn))) * drawn[-1])
-
-if board in boards:
-    print(board)
