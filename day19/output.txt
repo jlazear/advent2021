@@ -1,0 +1,105 @@
+scanner = 3, ref0 = (518, 739, 342), orientation = 1, ref = (447, 752, -870), n_matches = 12
+dref = [71, -13, 1212]
+len(scanners) = 34, scanners.keys() = dict_keys([1, 2, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35])
+scanner = 13, ref0 = (823, 867, -765), orientation = 4, ref = (864, 796, 472), n_matches = 12
+dref = [-41, 71, -1237]
+len(scanners) = 33, scanners.keys() = dict_keys([1, 2, 4, 5, 6, 7, 8, 9, 10, 11, 12, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35])
+scanner = 16, ref0 = (802, -777, 1787), orientation = 16, ref = (766, 311, 661), n_matches = 12
+dref = [36, -1088, 1126]
+len(scanners) = 32, scanners.keys() = dict_keys([1, 2, 4, 5, 6, 7, 8, 9, 10, 11, 12, 14, 15, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35])
+scanner = 15, ref0 = (530, -1642, 1756), orientation = 3, ref = (530, 740, 645), n_matches = 12
+dref = [0, -2382, 1111]
+len(scanners) = 31, scanners.keys() = dict_keys([1, 2, 4, 5, 6, 7, 8, 9, 10, 11, 12, 14, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35])
+scanner = 6, ref0 = (579, -1796, 1703), orientation = 11, ref = (-653, 598, 447), n_matches = 12
+dref = [1232, -2394, 1256]
+len(scanners) = 30, scanners.keys() = dict_keys([1, 2, 4, 5, 7, 8, 9, 10, 11, 12, 14, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35])
+scanner = 10, ref0 = (-705, -1707, 2018), orientation = 15, ref = (-626, 695, -264), n_matches = 12
+dref = [-79, -2402, 2282]
+len(scanners) = 29, scanners.keys() = dict_keys([1, 2, 4, 5, 7, 8, 9, 11, 12, 14, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35])
+scanner = 11, ref0 = (1972, -3132, 1789), orientation = 21, ref = (762, 298, 643), n_matches = 12
+dref = [1210, -3430, 1146]
+len(scanners) = 28, scanners.keys() = dict_keys([1, 2, 4, 5, 7, 8, 9, 12, 14, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35])
+scanner = 17, ref0 = (311, -3051, 2987), orientation = 20, ref = (254, 446, 665), n_matches = 15
+dref = [57, -3497, 2322]
+len(scanners) = 27, scanners.keys() = dict_keys([1, 2, 4, 5, 7, 8, 9, 12, 14, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35])
+scanner = 1, ref0 = (-828, -4240, 1932), orientation = 5, ref = (-854, 544, -441), n_matches = 12
+dref = [26, -4784, 2373]
+len(scanners) = 26, scanners.keys() = dict_keys([2, 4, 5, 7, 8, 9, 12, 14, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35])
+scanner = 2, ref0 = (-364, -3890, 2868), orientation = 6, ref = (-394, 864, -707), n_matches = 12
+dref = [30, -4754, 3575]
+len(scanners) = 25, scanners.keys() = dict_keys([4, 5, 7, 8, 9, 12, 14, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35])
+scanner = 12, ref0 = (783, -5320, 4450), orientation = 23, ref = (718, -583, -405), n_matches = 12
+dref = [65, -4737, 4855]
+len(scanners) = 24, scanners.keys() = dict_keys([4, 5, 7, 8, 9, 14, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35])
+scanner = 9, ref0 = (-848, -5246, 4360), orientation = 9, ref = (-741, 757, -435), n_matches = 12
+dref = [-107, -6003, 4795]
+len(scanners) = 23, scanners.keys() = dict_keys([4, 5, 7, 8, 14, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35])
+scanner = 18, ref0 = (-447, 604, 430), orientation = 17, ref = (-369, -628, 494), n_matches = 12
+dref = [-78, 1232, -64]
+len(scanners) = 22, scanners.keys() = dict_keys([4, 5, 7, 8, 14, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35])
+scanner = 20, ref0 = (571, -5319, 1740), orientation = 12, ref = (567, 622, -689), n_matches = 12
+dref = [4, -5941, 2429]
+len(scanners) = 21, scanners.keys() = dict_keys([4, 5, 7, 8, 14, 19, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35])
+scanner = 23, ref0 = (459, -6385, 1882), orientation = 19, ref = (426, -395, 756), n_matches = 12
+dref = [33, -5990, 1126]
+len(scanners) = 20, scanners.keys() = dict_keys([4, 5, 7, 8, 14, 19, 21, 22, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35])
+scanner = 24, ref0 = (752, -3009, 644), orientation = 3, ref = (-465, 531, 713), n_matches = 12
+dref = [1217, -3540, -69]
+len(scanners) = 19, scanners.keys() = dict_keys([4, 5, 7, 8, 14, 19, 21, 22, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35])
+scanner = 14, ref0 = (860, -5354, 652), orientation = 10, ref = (779, -564, 738), n_matches = 12
+dref = [81, -4790, -86]
+len(scanners) = 18, scanners.keys() = dict_keys([4, 5, 7, 8, 19, 21, 22, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35])
+scanner = 19, ref0 = (-730, -4115, 455), orientation = 13, ref = (530, 654, 530), n_matches = 12
+dref = [-1260, -4769, -75]
+len(scanners) = 17, scanners.keys() = dict_keys([4, 5, 7, 8, 21, 22, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35])
+scanner = 22, ref0 = (-814, -4216, -615), orientation = 2, ref = (464, -689, -549), n_matches = 15
+dref = [-1278, -3527, -66]
+len(scanners) = 16, scanners.keys() = dict_keys([4, 5, 7, 8, 21, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35])
+scanner = 5, ref0 = (-814, -4216, -615), orientation = 18, ref = (-789, -652, 544), n_matches = 12
+dref = [-25, -3564, -1159]
+len(scanners) = 15, scanners.keys() = dict_keys([4, 7, 8, 21, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35])
+scanner = 7, ref0 = (-904, -4074, -2054), orientation = 22, ref = (353, -493, -773), n_matches = 18
+dref = [-1257, -3581, -1281]
+len(scanners) = 14, scanners.keys() = dict_keys([4, 8, 21, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35])
+scanner = 21, ref0 = (-1947, -2762, -1976), orientation = 8, ref = (-759, -426, -658), n_matches = 12
+dref = [-1188, -2336, -1318]
+len(scanners) = 13, scanners.keys() = dict_keys([4, 8, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35])
+scanner = 25, ref0 = (2066, -1935, 392), orientation = 23, ref = (-276, 361, -724), n_matches = 12
+dref = [2342, -2296, 1116]
+len(scanners) = 12, scanners.keys() = dict_keys([4, 8, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35])
+scanner = 26, ref0 = (807, -3090, 737), orientation = 11, ref = (910, 501, 699), n_matches = 24
+dref = [-103, -3591, 38]
+len(scanners) = 11, scanners.keys() = dict_keys([4, 8, 27, 28, 29, 30, 31, 32, 33, 34, 35])
+scanner = 28, ref0 = (805, -5358, 4411), orientation = 18, ref = (875, 618, 778), n_matches = 24
+dref = [-70, -5976, 3633]
+len(scanners) = 10, scanners.keys() = dict_keys([4, 8, 27, 29, 30, 31, 32, 33, 34, 35])
+scanner = 29, ref0 = (-430, -1902, 2773), orientation = 7, ref = (-506, -806, 429), n_matches = 18
+dref = [76, -1096, 2344]
+len(scanners) = 9, scanners.keys() = dict_keys([4, 8, 27, 30, 31, 32, 33, 34, 35])
+scanner = 4, ref0 = (-468, -663, 3002), orientation = 14, ref = (-514, 481, -537), n_matches = 12
+dref = [46, -1144, 3539]
+len(scanners) = 8, scanners.keys() = dict_keys([8, 27, 30, 31, 32, 33, 34, 35])
+scanner = 8, ref0 = (697, -653, 2898), orientation = 7, ref = (728, -824, -754), n_matches = 12
+dref = [-31, 171, 3652]
+len(scanners) = 7, scanners.keys() = dict_keys([27, 30, 31, 32, 33, 34, 35])
+scanner = 27, ref0 = (-567, 844, 3944), orientation = 20, ref = (639, 796, 467), n_matches = 12
+dref = [-1206, 48, 3477]
+len(scanners) = 6, scanners.keys() = dict_keys([30, 31, 32, 33, 34, 35])
+scanner = 30, ref0 = (818, -730, 1954), orientation = 3, ref = (804, -884, -445), n_matches = 24
+dref = [14, 154, 2399]
+len(scanners) = 5, scanners.keys() = dict_keys([31, 32, 33, 34, 35])
+scanner = 31, ref0 = (-730, -4115, 455), orientation = 15, ref = (-647, -690, -630), n_matches = 24
+dref = [-83, -3425, 1085]
+len(scanners) = 4, scanners.keys() = dict_keys([32, 33, 34, 35])
+scanner = 32, ref0 = (-738, 1699, -862), orientation = 0, ref = (-651, -754, -868), n_matches = 12
+dref = [-87, 2453, 6]
+len(scanners) = 3, scanners.keys() = dict_keys([33, 34, 35])
+scanner = 33, ref0 = (-764, -3177, -1730), orientation = 6, ref = (-685, 345, 701), n_matches = 12
+dref = [-79, -3522, -2431]
+len(scanners) = 2, scanners.keys() = dict_keys([34, 35])
+scanner = 34, ref0 = (-795, -485, -1567), orientation = 8, ref = (-869, -551, 770), n_matches = 12
+dref = [74, 66, -2337]
+len(scanners) = 1, scanners.keys() = dict_keys([35])
+scanner = 35, ref0 = (2066, -1935, 392), orientation = 0, ref = (-292, 338, 344), n_matches = 15
+dref = [2358, -2273, 48]
+len(master_list) = 440
