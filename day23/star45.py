@@ -1,0 +1,1 @@
+print("Sometimes the fastest way is to just do it manaully... ")
